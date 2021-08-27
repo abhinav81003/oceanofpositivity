@@ -1,5 +1,7 @@
 ## What is Ocean Of Positivity
 Ocean of Positivity is a simple game designed for young children, to teach them the importance of a positive mindset and to make them aware of the mental health issues that people face. The game is really easy to play and has an interactive and fun interface. 
+## Check the game out 
+The website is live at: https://zohebmopo.github.io/oceanofpositivity/#
 ## What it does
 The game interface contains various bubbles and animals. The main avatar is the fish who drinks all the bubbles in which `positive words` are written. This leads to an increase in the score.
 ## How we built it
